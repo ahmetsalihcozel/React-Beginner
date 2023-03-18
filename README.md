@@ -1,20 +1,20 @@
 # React Beginner Level Exercises
 
-    In this little project I learnt about;
+In this little project I learnt about;
 
-    <ol>
-        <li>How to start a react project.</li>
-        <li>Why react used for and the benefits of react.</li>
-        <li>Components.</li>
-        <li>Relations between Child and Parenent Components.</li>
-        <li>Lifecycle of a Component ("componentDidMount( )" etc.).</li>
-        <li>What "Props" used for.</li>
-        <li>What "State" used for.</li>
-        <li>Component as a Function & Component as a Class ().</li>
-        <li>Why we need to use "SetState()" method.</li>
-    </ol>
+<ol>
+    <li>How to start a react project.</li>
+    <li>Why react used for and the benefits of react.</li>
+    <li>Components.</li>
+    <li>Relations between Child and Parenent Components.</li>
+    <li>Lifecycle of a Component ("componentDidMount( )" etc.).</li>
+    <li>What "Props" used for.</li>
+    <li>What "State" used for.</li>
+    <li>Component as a Function & Component as a Class ().</li>
+    <li>Why we need to use "SetState()" method.</li>
+</ol>
 
-    With all I learnt I made an application which contains bootstrap, react and javascript methods. There are 3 buttons after you click one of them, showMore( ) function runs and changes the state of the component so "render( )" and "componentDidUpdate( )" methods are triggers and the collapse components do their job and shows the content or collapses back.
+With all I learnt I made an application which contains bootstrap, react and javascript methods. There are 3 buttons after you click one of them, showMore( ) function runs and changes the state of the component so "render( )" and "componentDidUpdate( )" methods are triggers and the collapse components do their job and shows the content or collapses back.
 
 # Getting Started with Create React App
 
